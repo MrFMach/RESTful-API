@@ -1,0 +1,24 @@
+{
+  "name": "restful-api",
+  "version": "0.0.1",
+  "main": "src/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "restful",
+    "api",
+    "node",
+    "hapi",
+    "docker",
+    "mongoose"
+  ],
+  "author": "MrFMach",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "mongoose": "^5.9.19"
+  },
+  "devDependencies": {},
+  "description": ""
+}
